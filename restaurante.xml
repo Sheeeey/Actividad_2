@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+ <plato>
+  <nombre type="Sopa">Sopa Miso</nombre>
+  <precioeuros>3.50€</precioeuros>
+  <descripcion>Sopa preparada a base de un caldo dashi y pasta de miso, que le da nombre.</descripcion>
+    <caracteristicas>
+    <item>Caliente</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>35 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Pasta">Yakisoba</nombre>
+  <precioeuros>6.80€</precioeuros>
+  <descripcion>Se compone de fideos, carne de cerdo, col, brotes de soja, verduras y entre otros ingredientes, se incorpora una salsa, es la denominada salsa yakisoba, de un estilo similar a la salsa tonkatsu.</descripcion>
+    <caracteristicas>
+    <item>Caliente</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>600 kcal</calorias>
+ </plato>
+
+   <plato>
+  <nombre type="Pasta">Udon</nombre>
+  <precioeuros>7.50€</precioeuros>
+  <descripcion>Es un tipo de fideo grueso hecho de harina de trigo, popular en la comida japonesa. Este udon original tenía de 6 a 8 mm de diámetro</descripcion>
+    <caracteristicas>
+    <item>Caliente</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>660 kcal</calorias>
+ </plato>
+
+   <plato>
+  <nombre type="Sushi">Tartar salmon y aguacate</nombre>
+  <precioeuros>10.50€</precioeuros>
+  <descripcion>Tartar de salmón con aguacate, salsa tártara, huevas de trucha y ralladura de lima.</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>500 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Maguro Tataki</nombre>
+  <precioeuros>12.50€</precioeuros>
+  <descripcion>Tataki de atún con crema de aguacate</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>460 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Unagui to Foie</nombre>
+  <precioeuros>12.50€</precioeuros>
+  <descripcion>Futomaki de anguila del delta del Ebro, foie de l'Empordà y salsa miso. 5 Unidades</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>260 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Salmon to avocado</nombre>
+  <precioeuros>9.90€</precioeuros>
+  <descripcion>Uramaki de salmón noruego con aguacate, sésamo negro y mayonesa. Sin gluten 8 Unidades</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>230 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Spicy Tuna</nombre>
+  <precioeuros>10.90€</precioeuros>
+  <descripcion>Futomaki de atún con salsa picante. Sin gluten. 5 Unidades</descripcion>
+    <caracteristicas>
+    <item>Picante</item>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>300 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Crispy Toro</nombre>
+  <precioeuros>14.90€</precioeuros>
+  <descripcion>Futomaki de ventresca de atún con piñones, galleta de arroz y hoja de shiso. Sin gluten. 5 Unidades</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    <item>Frutos Secos</item>
+    <item>Sin gluten</item>
+    </caracteristicas>
+  <calorias>350 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Foie no Teriyaki Maki sushi</nombre>
+  <precioeuros>11.00€</precioeuros>
+  <descripcion>Futomaki de foie a la plancha con salsa teriyaki. 5 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>230 kcal</calorias>
+ </plato>
+
+   <plato>
+  <nombre type="Sushi">Salmon Hosomaki</nombre>
+  <precioeuros>6.10€</precioeuros>
+  <descripcion>Hosomaki de Salmón de Noruega. Sin gluten. 6 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>150 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">California roll</nombre>
+  <precioeuros>10.40€</precioeuros>
+  <descripcion>Uramaki de cangrejo, aguacate y mayonesa. 8 Unidades</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>230 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Sushi">Tekka Hosomaki</nombre>
+  <precioeuros>6.90€</precioeuros>
+  <descripcion>Hosomaki de atún. 6 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>230 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Nigiri">Hotate mentaiko nigiri</nombre>
+  <precioeuros>2.90€</precioeuros>
+  <descripcion>Nigiri de vieira japonesa flambeada con crema de queso y mentaiko</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    <item>Caliente</item>
+    </caracteristicas>
+  <calorias>180 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Nigiri">Nigiri Salmon Noruego</nombre>
+  <precioeuros>2.30€</precioeuros>
+  <descripcion>Nigiri de salmón de Noruega</descripcion>
+    <caracteristicas>
+    <item>Pescado</item>
+    </caracteristicas>
+  <calorias>100 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Bandeja">Bandeja Nomo Friends</nombre>
+  <precioeuros>68€</precioeuros>
+  <descripcion>Variado de sushi de los grandes clásicos Nomo que no podrás perderte. 45 piezas de makis y nigiris servidas en una exclusiva bandeja de madera. 45 Unidades</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>600 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Bandeja">Salmon y Atun Selection</nombre>
+  <precioeuros>12.50€</precioeuros>
+  <descripcion>Selección especial de 14 piezas de atún y salmón. Sin gluten. 14 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Sin gluten</item>
+    </caracteristicas>
+  <calorias>470 kcal</calorias>
+ </plato>
+
+
+  <plato>
+  <nombre type="Bandeja">Salmon Selection</nombre>
+  <precioeuros>18.90€</precioeuros>
+  <descripcion>Selección especial de sushi de salmón noruego: 6 uramakis, 4 hosomakis y 4 nigiris. 14 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>580 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Bandeja">Maki Sushi Variado</nombre>
+  <precioeuros>18.90€</precioeuros>
+  <descripcion>Variado de 10 piezas de maki. 10 Unidades.</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>540 kcal</calorias>
+ </plato>
+
+  <plato>
+  <nombre type="Bandeja">Bandeja Nomo Premium</nombre>
+  <precioeuros>88€</precioeuros>
+  <descripcion>Variado de sushi premium, nuestras especialidades más selectas en una misma bandeja de madera.</descripcion>
+    <caracteristicas>
+    <item>Frio</item>
+    <item>Pescado</item>
+    <item>Verdura</item>
+    </caracteristicas>
+  <calorias>700 kcal</calorias>
+ </plato>
+
+</carta>
