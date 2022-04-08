@@ -17,7 +17,7 @@
     <h1 class="eva-heading__title">SUSHI</h1>
     <h3 class="eva-heading__episode-number">EPISODE: 4</h3>
     <h4 class="eva-heading__episode-title">
-    Japanese Restaurant<br>
+    Japanese Restaurant<br>By: Sheyla Suanez Espinoza
     </h4>
   </header>
 <!-- <div class="row">
